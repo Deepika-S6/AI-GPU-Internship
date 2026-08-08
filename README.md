@@ -1,7 +1,5 @@
 # InternGuard: AI-Based Fake Internship Offer Detection System
 
-InternGuard is a one-day AI/ML capstone project that detects whether an internship offer looks genuine or suspicious.
-
 ## Problem Statement
 
 Students often receive internship messages through WhatsApp, Telegram, email, and social media. Some posts ask for registration fees, promise guaranteed jobs, or provide vague work details. InternGuard helps students quickly screen such offers using machine learning and simple warning-signal rules.
